@@ -8,6 +8,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## App
 
+Primera Versión:
+
 He cerado un Aplicación web de una sola página (Single Page Application) donde he estado aplicando conceptos como: 
 
 - Creación de proyectos de Angular usando el CLI (Command Line Interface)
